@@ -24,4 +24,4 @@ Este projeto é um sistema simples de catálogo onde você pode cadastrar itens
 - Node.js para backend
 - npm run
 - node server.js (2 terminais rodando para funcionar, eventualmente vai estar em um docker)
-- 
+  
